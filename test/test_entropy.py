@@ -4,7 +4,7 @@ Tests for the entropy function
 import pytest
 import numpy as np
 
-from entropy import entropy
+from entropy.entropy import entropy
 
 
 def test_smoke():
